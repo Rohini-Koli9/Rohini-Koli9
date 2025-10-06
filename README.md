@@ -33,14 +33,8 @@ I'm a Data Science Intern at **Rezo.ai**, passionate about building AI-powered s
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD000?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/🦜🔗_LangChain-000000?style=for-the-badge)
 ![LangGraph](https://img.shields.io/badge/🦜_LangGraph-FF4B00?style=for-the-badge)
-![Transformers](https://img.shields.io/badge/Transformers-FF6F61?style=for-the-badge)
-
-
-### NLP & Generative AI
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzIiIGhlaWdodD0iMzIiIHZpZXdCb3g9IjAgMCAzMiAzMiIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTE2IDZJOC4yNjgwMSA2IDIgMTIuMjY4IDIgMjBDMiAyNy43MzIgOC4yNjgwMSAzNCAxNiAzNEMyMy43MzIgMzQgMzAgMjcuNzMyIDMwIDIwQzMwIDEyLjI2OCAyMy43MzIgNiAxNiA2WiIgZmlsbD0iI0ZGRDIxRSIvPgo8L3N2Zz4=&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-00A67E?style=for-the-badge&logo=langchain&logoColor=white)
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F61?style=for-the-badge&logo=huggingface&logoColor=white)
+
 
 ### Web Development & Tools
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
