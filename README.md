@@ -57,7 +57,7 @@ I'm a Data Science Intern at **Rezo.ai**, passionate about building AI-powered s
 [![Customer Support RAG](https://github-readme-stats.vercel.app/api/pin/?username=Rohini-Koli9&repo=Customer-Support-RAG&theme=radical)](https://github.com/Rohini-Koli9/Customer-Support-RAG)
 [![Bob the Builder](https://github-readme-stats.vercel.app/api/pin/?username=Rohini-Koli9&repo=Bob-the-Builder&theme=radical)](https://github.com/Rohini-Koli9/Bob-the-Builder)
 [![Food Delivery Chatbot](https://github-readme-stats.vercel.app/api/pin/?username=Rohini-Koli9&repo=Food-Delivery-Chatbot&theme=radical)](https://github.com/Rohini-Koli9/Food-Delivery-Chatbot)
-[![Whisper VITS SVC](https://github-readme-stats.vercel.app/api/pin/?username=Rohini-Koli9&repo=Whisper-VITS-SVC&theme=radical)](https://github.com/Rohini-Koli9/Whisper-VITS-SVC)
+[![Whisper VITS SVC](https://github-readme-stats.vercel.app/api/pin/?username=Rohini-Koli9&repo=Whisper-VITS-SVC&theme=radical)](https://github.com/Rohini-Koli9/Voice-Conversion-using-Whisper-VITS-SVC)
 
 </div>
 
