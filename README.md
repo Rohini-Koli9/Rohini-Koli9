@@ -32,6 +32,7 @@ I'm a Data Science Intern at **Rezo.ai**, passionate about building AI-powered s
 ### NLP & Generative AI
 ![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-FFD000?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-000000?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/🦜🔗_LangGraph-FF4B00?style=for-the-badge)
 ![Transformers](https://img.shields.io/badge/Transformers-FF6F61?style=for-the-badge)
 
 ### Web Development & Tools
